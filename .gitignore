@@ -1,0 +1,5 @@
+#list ignored stuff
+
+#ingore built files and libraries
+*.[ao]
+*.out
